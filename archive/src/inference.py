@@ -1,3 +1,6 @@
+# pr-assist
+# inference.py
+
 from transformers import AutoTokenizer
 from transformers import AutoModelForCausalLM
 
